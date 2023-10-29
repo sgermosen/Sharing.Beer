@@ -1,2 +1,2 @@
 # Sharing.Beer
-Simple learning about modern Rest API, and their integration with Flutter and MAUI
+Sharing Beer App is a digital platform designed for beer enthusiasts around the world. It enables users to explore, rate, and comment on various beer brands while also finding locations where they can purchase or taste them. With an interactive interface and comprehensive information of each beer, it offers a unique space for individuals to deepen their appreciation for beers and share their experiences with a global community. Something to consider is that each comment needs to be something like “history” and could be ranked in the future, liked or disliked, or, the comments and histories can be separated into two different sections, but this needs to be discussed.
